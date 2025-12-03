@@ -7,6 +7,7 @@ public class Personaje {
     }
     public void mostrarInfo() {
         System.out.println(nom + " tiene " + dinero + "$.");
+
     }
 
     public void gastarDinero(){
